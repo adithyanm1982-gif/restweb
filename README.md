@@ -1,5 +1,7 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date: 24/12/25
+## Name: ADITHYA NM
+## Register No: 25011586
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
